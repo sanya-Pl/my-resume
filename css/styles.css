@@ -1,0 +1,326 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    background-color: #eceef1;
+    font-family: Montserrat;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+
+.one-conteyner {
+    background-color: #ffffff;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+
+}
+.seybar {
+    background-color: #1e2939;
+    width: 370px;
+    
+}
+.my-foto {
+    width: 370px;
+    height: 354px;
+    padding-top: 20px;
+}
+.my-name {
+    color: #000000;
+font-family: Montserrat;
+}
+.to-conteyner {
+    padding-left: 85px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-botom: 110px;
+}
+.econtact-c {
+    margin-right: 10px;
+    font-size: 14px;
+font-weight: 600;
+line-height: 24px;
+}
+
+
+
+.Contacts-title{
+    padding-top: 20px;
+color: #ffffff;
+margin-bottom: 20px;
+font-size: 22px;
+font-weight: 700;
+line-height: 24px;
+   } 
+
+.Contacts {
+    padding-top: 50px;
+    padding-left: 40px;
+    color: #ffffff;
+    
+    
+}
+
+.Tech-Skills-title {
+    color: #fff;
+    margin-bottom: 20px;
+    margin-left: -11px;
+    font-size: 22px;
+font-weight: 700;
+line-height: 24px;
+    
+}
+
+.Tech-Skills {
+    color: #fff;
+    margin-left: 47px;
+    margin-right: 40px;
+    margin-top: 50px;
+
+
+}
+
+.Soft-Skills-title {
+    padding-bottom: 17px; 
+    font-size: 14px;
+    font-size: 22px;
+     font-weight: 700;
+     line-height: 24px;
+margin-left: -17px;
+    
+}
+.Soft-Skills {
+    color: #ffffff;
+    padding-left: 52px;
+    padding-top: 50px;
+       
+}
+
+.my-element {
+    
+    font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+
+} 
+
+
+.point-one {
+    color: #ff6b08;
+    
+}
+ 
+.point-one-w{
+    color: #ffffff;
+
+}
+
+
+.Contacts-sulck {
+    color: #ffffff;
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+}
+
+.one-conteyner {
+    display: flex;
+
+}
+
+.Scrum-GTD{
+    color: #ff6b08;
+
+}
+.point-onew{
+color: #ffffff;
+}
+
+.Soft-Skills-my {
+   
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.to-conteyner-developer{
+    font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+
+}  
+.my-name {
+
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 89px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+
+.projeckt-fan {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+.ocnova {
+    margin-bottom: 65px;
+}
+.Projects {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+
+.my-projects{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.language {
+    font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+color: #595959;
+
+}
+
+.point {
+    color: #595959;
+
+}
+
+.figure {
+    font-weight: 700;
+}
+
+
+.proect {
+    padding-bottom: 56px;
+}
+
+.Work-Experience-title {
+
+     font-size: 22px;
+     font-weight: 700;
+     line-height: 24px;
+     margin-bottom: 10px;
+}
+.Front-End {
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+margin-bottom: 24px;
+
+}
+
+.name-Freelance { 
+    color: #ff8635;
+    
+}
+
+.oput {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 24px;
+    color: #595959;
+
+}
+
+
+.September-2019 {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+.Manager-title {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 14px;
+
+}
+
+.roga-one {
+    color: #fb914a;
+}
+
+.Manager-conteyner {
+    margin-bottom: 30px;
+}
+
+.March {
+margin-bottom: 17px;
+font-size: 12px;
+font-weight: 400;
+line-height: 24px;
+}
+.March-van{
+     color: #595959;
+     font-size: 14px;
+     font-weight: 400;
+     line-height: 24px;
+}
+
+.work-two {
+    margin-bottom: 55px;
+} 
+
+.Manager-Roga-2 {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 14px;
+    
+}
+.roga-two {
+    color: #fb914a;
+}
+
+.Education {
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+}
+
+.University {
+    color: #ff6b08;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.Education {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
